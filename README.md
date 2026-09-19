@@ -10,7 +10,7 @@ A **[Unity Project Patcher](https://github.com/nomnomab/unity-project-patcher) w
 
 ## 🎮 Target game profile
 
-| | |
+| Type | Description |
 |---|---|
 | Engine | **Unity 6000.3.14f1** (Unity 6.3) |
 | Scripting backend | **Mono** (x64) : decompilable DLLs |
