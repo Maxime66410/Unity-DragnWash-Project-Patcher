@@ -1,0 +1,14 @@
+# Normalize line endings
+* text=auto
+
+# Unity YAML assets: prevent CRLF churn and enable smart merging
+*.asset text eol=lf
+*.asmdef text eol=lf
+*.cs text diff=csharp
+
+# Treat common binary assets as binary (in case shaders/textures are added later)
+*.png binary
+*.tga binary
+*.psd binary
+*.fbx binary
+*.dll binary

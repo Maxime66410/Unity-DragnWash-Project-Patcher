@@ -1,0 +1,18 @@
+{
+  "name": "com.maxime66410.dragnwash-project-patcher",
+  "version": "1.0.0",
+  "displayName": "Drag'n Wash Project Patcher",
+  "description": "A game wrapper for Unity Project Patcher (Jettcodey Unity 6000+ fork) that generates an editable Unity project from a Drag'n Wash build for easy modding with BepInEx.",
+  "unity": "6000.3",
+  "unityRelease": "14f1",
+  "licensesUrl": "https://choosealicense.com/licenses/gpl-3.0/",
+  "dependencies": {},
+  "devDependencies": {},
+  "samples": [],
+  "author": {
+    "name": "Maxime66410",
+    "email": "",
+    "url": "https://furranystudio.fr"
+  },
+  "type": "library"
+}
