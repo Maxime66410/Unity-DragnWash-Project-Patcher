@@ -10,7 +10,7 @@ Un **wrapper de [Unity Project Patcher](https://github.com/nomnomab/unity-projec
 
 ## 🎮 Perfil del juego objetivo
 
-| | |
+| Tipo | Descripción |
 |---|---|
 | Motor | **Unity 6000.3.14f1** (Unity 6.3) |
 | Backend de scripting | **Mono** (x64) : DLLs decompilables |
