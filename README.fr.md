@@ -10,7 +10,7 @@ Un **wrapper [Unity Project Patcher](https://github.com/nomnomab/unity-project-p
 
 ## 🎮 Profil du jeu ciblé
 
-| | |
+| Type | Description |
 |---|---|
 | Moteur | **Unity 6000.3.14f1** (Unity 6.3) |
 | Backend de scripting | **Mono** (x64) : DLL décompilables |
